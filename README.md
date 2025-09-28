@@ -36,3 +36,6 @@
        style="margin-right:8px;"/>
   <span style="color:#000000; font-weight:600;">Cursor AI</span>
 </span>
+
+![Cursor AI](assets/cursor-ai-badge.svg)
+
