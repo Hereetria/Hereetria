@@ -31,14 +31,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <table>
   <tr>
-    <td style="padding:0; border:none;">
-      <img src="https://github.com/Hereetria/Hereetria/blob/main/assets/cursor-ai.svg" 
-           alt="Logo" height="20"/>
-    </td>
-    <td style="padding:0; border:none;">
-      <img src="https://img.shields.io/badge/Cursor%20AI-black?style=for-the-badge&labelColor=white&color=white&logoColor=black" />
+    <td style="background:#fff; border:1px solid #ddd; border-radius:6px; padding:6px 12px;">
+      <img src="https://raw.githubusercontent.com/Hereetria/Hereetria/main/assets/cursor-ai.svg" 
+           alt="Cursor AI Logo" 
+           height="20" 
+           style="vertical-align:middle; margin-right:8px;"/>
+      <span style="color:#000; font-weight:600; vertical-align:middle;">Cursor AI</span>
     </td>
   </tr>
 </table>
-
-
