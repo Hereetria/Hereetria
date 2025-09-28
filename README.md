@@ -27,7 +27,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/icons/src/icons/cursor.svg" width="40" alt="Cursor AI logo" />
-
+<img src="./assets/cursor-ai.svg" width="40" alt="Cursor AI logo" />
 
 
