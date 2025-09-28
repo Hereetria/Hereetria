@@ -29,8 +29,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<div style="background-color:#ffffff; border:1px solid #ddd; border-radius:6px; padding:12px;">
-  Bu kutunun arka planı beyazdır.
-</div>
+👉 [Beyaz Kutu Demo](https://hereetria.github.io/pages-test)
 
 
