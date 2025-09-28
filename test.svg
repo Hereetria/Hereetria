@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff7e5f; stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#feb47b; stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+  <rect rx="6" width="160" height="40" fill="url(#grad)"></rect>
+  <image href="cursor-ai.svg" x="8" y="8" height="24px" width="24px"></image>
+  <text x="45" y="25" font-size="14" font-weight="bold" fill="#fff">Cursor AI</text>
+</svg>
