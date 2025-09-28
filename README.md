@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td style="padding:0; border:none;">
-      <img src="https://raw.githubusercontent.com/Hereetria/Hereetria/main/assets/cursor-ai.svg" 
+      <img src="https://github.com/Hereetria/Hereetria/blob/main/assets/cursor-ai.svg" 
            alt="Logo" height="20"/>
     </td>
     <td style="padding:0; border:none;">
