@@ -1,5 +1,23 @@
 ## 🚧 Work in Progress
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hereetria&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hereetria&layout=compact&theme=radical)
+
+
+
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hereetria&theme=radical)
+![GitHub Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hereetria&theme=radical)
+
+
+
+
+
+
+
+
+
 ### 🖥️ Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
