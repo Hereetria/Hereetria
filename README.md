@@ -27,9 +27,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<a href="#">
-  <img 
-    src="https://img.shields.io/badge/Cursor_AI-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0i...senin_svg_base64...Ig==" 
-    alt="Cursor AI" 
-  />
-</a>
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,BASE64_KODUN&logoColor=white)
