@@ -27,4 +27,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTI2LjU5IDI5LjQ5bC02Ljk5LTYuOTktNi45OSA2Ljk5LTEuNDEtMS40MSA2Ljk5LTYuOTktNi45OS02Ljk5IDEuNDEtMS40MSA2Ljk5IDYuOTkgNi45OS02Ljk5IDEuNDEgMS40MS02Ljk5IDYuOTkgNi45OSA2Ljk5eiIvPjwvc3ZnPg==&logoColor=black)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR...&logoColor=black)
