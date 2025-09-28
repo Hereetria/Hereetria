@@ -30,12 +30,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <a href="#">
-  <img src="https://raw.githubusercontent.com/Hereetria/Hereetria/main/assets/cursor-ai.svg"
-       alt="Cursor AI Logo"
-       height="24"
-       style="background:#fff; padding:6px 12px; border-radius:6px; border:1px solid #ddd; vertical-align:middle;"/>
-  <span style="background:#fff; padding:6px 12px; border-radius:6px; border:1px solid #ddd; margin-left:-6px; font-weight:bold; color:#000; vertical-align:middle;">
-    Cursor AI
+  <span style="display:inline-flex; align-items:center; background:#fff; padding:6px 12px; border-radius:6px; border:1px solid #ddd;">
+    <img src="https://raw.githubusercontent.com/Hereetria/Hereetria/main/assets/cursor-ai.svg"
+         alt="Cursor AI Logo"
+         height="20"
+         style="margin-right:8px;"/>
+    <span style="color:#000; font-weight:600;">Cursor AI</span>
   </span>
 </a>
+
 
