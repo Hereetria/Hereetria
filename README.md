@@ -27,4 +27,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-FFFFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/Hereetria/Hereetria/blob/main/assets/cursor-ai.svg)
+<a href="#">
+  <img src="https://img.shields.io/badge/Cursor_AI-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FFFFFF&color=FFFFFF" height="28"/>
+  <img src="./assets/cursor-ai.svg" alt="Cursor AI logo" height="28" style="margin-left:-65px;"/>
+</a>
