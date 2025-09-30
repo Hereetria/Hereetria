@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test3.svg" alt="React Logo" height="30" />
+    <img src="./assets/test3.svg" alt="React Logo" height="32" />
   </a>
 </p>
 
