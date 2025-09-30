@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test.svg" alt="React Logo" height="40" />
+    <img src="./assets/test.svg" alt="React Logo" height="38" />
   </a>
 </p>
 
@@ -13,27 +13,27 @@
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test1.svg" alt="React Logo" height="40" />
+    <img src="./assets/test1.svg" alt="React Logo" height="38" />
   </a>
 </p>
 
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test2.svg" alt="React Logo" height="40" />
+    <img src="./assets/test2.svg" alt="React Logo" height="38" />
   </a>
 </p>
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test3.svg" alt="React Logo" height="40" />
+    <img src="./assets/test3.svg" alt="React Logo" height="38" />
   </a>
 </p>
 
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/test4.svg" alt="React Logo" height="40" />
+    <img src="./assets/test4.svg" alt="React Logo" height="38" />
   </a>
 </p>
 
