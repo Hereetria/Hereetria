@@ -11,6 +11,8 @@
 [<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)
 [<img src="./assets/graphql-logo.svg" alt="Graphql Logo" height="32" />](https://graphql.org/learn/)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
