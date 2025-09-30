@@ -11,7 +11,8 @@
 [<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)
 [<img src="./assets/graphql-logo.svg" alt="Graphql Logo" height="32" />](https://graphql.org/learn/)
 
-[Elasticsearch](https://github.com/elastic/elasticsearch/blob/main/README.md)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
