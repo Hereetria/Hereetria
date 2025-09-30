@@ -11,6 +11,8 @@
 [<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)
 [<img src="./assets/graphql-logo.svg" alt="Graphql Logo" height="32" />](https://graphql.org/learn/)
 
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
