@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://react.dev" target="_blank">
-    <img src="./assets/csharp-logo.svg" alt="React Logo" height="38" />
+    <img src="./assets/csharp-logo.svg" alt="React Logo" height="30" />
   </a>
 </p>
 
