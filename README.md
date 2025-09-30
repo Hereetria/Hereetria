@@ -9,8 +9,6 @@
 [<img src="./assets/nestjs-logo.svg" alt="NestJS Logo" height="32" />](https://nestjs.com/)
 [<img src="./assets/prisma-logo.svg" alt="Prisma Logo" height="32" />](https://www.prisma.io/docs)
 [<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)
-[<img src="./assets/graphql-logo.svg" alt="GraphQL Logo" height="32" />](https://graphql.org/learn/)
-
 
 
 
