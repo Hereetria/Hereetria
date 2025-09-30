@@ -3,6 +3,9 @@
 # 👋 About Me
 I am a full-stack web developer passionate about building scalable APIs and modern front-end applications.  
 I enjoy working with both back-end and front-end stacks and continuously learning new technologies.
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</a>
 
 ---
 
