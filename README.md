@@ -2,37 +2,52 @@
 
 ## 🚧 Work in Progress
 
+## 🧭 Frontend
 
-[<img src="./assets/csharp-logo.svg" alt="C# Logo" height="32" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img src="./assets/dotnetcore-logo.svg" alt=".NET Core Logo" height="32" />](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)
-[<img src="./assets/entityframework-logo.svg" alt="Entity Framework Core Logo" height="32" />](https://learn.microsoft.com/en-us/ef/)
+[<img src="./assets/react-logo.svg" alt="React Logo" height="32" />](https://react.dev/)  
+[<img src="./assets/nextjs-logo.svg" alt="Next.js Logo" height="32" />](https://nextjs.org/)  
+[<img src="./assets/tailwindcss-logo.svg" alt="Tailwind CSS Logo" height="32" />](https://tailwindcss.com/)  
+[<img src="./assets/shadcnui-logo.svg" alt="shadcn/ui Logo" height="32" />](https://ui.shadcn.com/)  
+[<img src="./assets/javascript-logo.svg" alt="JavaScript Logo" height="32" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[<img src="./assets/typescript-logo.svg" alt="TypeScript Logo" height="32" />](https://www.typescriptlang.org/)  
+[<img src="./assets/css3-logo.svg" alt="CSS3 Logo" height="32" />](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[<img src="./assets/html5-logo.svg" alt="HTML5 Logo" height="32" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  
+[<img src="./assets/materialui-logo.svg" alt="Material UI Logo" height="32" />](https://mui.com/)  
+[<img src="./assets/bootstrap-logo.svg" alt="Bootstrap Logo" height="32" />](https://getbootstrap.com/)
+
+---
+
+## ⚙️ Backend
+
+[<img src="./assets/csharp-logo.svg" alt="C# Logo" height="32" />](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+[<img src="./assets/dotnetcore-logo.svg" alt=".NET Core Logo" height="32" />](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet)  
+[<img src="./assets/entityframework-logo.svg" alt="Entity Framework Core Logo" height="32" />](https://learn.microsoft.com/en-us/ef/)  
+[<img src="./assets/prisma-logo.svg" alt="Prisma Logo" height="32" />](https://www.prisma.io/docs)  
+[<img src="./assets/graphql-logo.svg" alt="GraphQL Logo" height="32" />](https://graphql.org/learn/)  
+[<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)  
 [<img src="./assets/nestjs-logo.svg" alt="NestJS Logo" height="32" />](https://nestjs.com/)
-[<img src="./assets/prisma-logo.svg" alt="Prisma Logo" height="32" />](https://www.prisma.io/docs)
-[<img src="./assets/restapi-logo.svg" alt="REST API Logo" height="32" />](https://restfulapi.net/)
-[<img src="./assets/graphql-logo.svg" alt="Graphql Logo" height="32" />](https://graphql.org/learn/)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🗄️ Database
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+[<img src="./assets/postgresql-logo.svg" alt="PostgreSQL Logo" height="32" />](https://www.postgresql.org/)  
+[<img src="./assets/sqlserver-logo.svg" alt="SQL Server Logo" height="32" />](https://learn.microsoft.com/en-us/sql/sql-server/)  
+[<img src="./assets/mongodb-logo.svg" alt="MongoDB Logo" height="32" />](https://www.mongodb.com/)  
+[<img src="./assets/redis-logo.svg" alt="Redis Logo" height="32" />](https://redis.io/)  
+[<img src="./assets/sql-logo.svg" alt="SQL Logo" height="32" />](https://en.wikipedia.org/wiki/SQL)  
+[<img src="./assets/elasticsearch-logo.svg" alt="Elasticsearch Logo" height="32" />](https://www.elastic.co/elasticsearch)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 🧰 Platforms & Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
+[<img src="./assets/vercel-logo.svg" alt="Vercel Logo" height="32" />](https://vercel.com/)  
+[<img src="./assets/github-logo.svg" alt="GitHub Logo" height="32" />](https://github.com/)  
+[<img src="./assets/git-logo.svg" alt="Git Logo" height="32" />](https://git-scm.com/)  
+[<img src="./assets/docker-logo.svg" alt="Docker Logo" height="32" />](https://www.docker.com/)  
+[<img src="./assets/cursor-logo.svg" alt="Cursor AI Logo" height="32" />](https://cursor.sh/)  
+[<img src="./assets/supabase-logo.svg" alt="Supabase Logo" height="32" />](https://supabase.com/)  
+[<img src="./assets/pnpm-logo.svg" alt="pnpm Logo" height="32" />](https://pnpm.io/) <!-- Eksik SVG oluşturulmalı -->
 
 
