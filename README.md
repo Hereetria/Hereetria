@@ -17,7 +17,7 @@
   <a href="https://getbootstrap.com/"><img src="./assets/bootstrap-logo.svg" alt="Bootstrap Logo" height="32" /></a>
 </p>
 
----
+<br>
 
 ## ⚙️ Backend
 
@@ -31,7 +31,7 @@
   <a href="https://nestjs.com/"><img src="./assets/nestjs-logo.svg" alt="NestJS Logo" height="32" /></a>
 </p>
 
----
+<br>
 
 ## 🗄️ Database
 
@@ -44,7 +44,7 @@
   <a href="https://www.elastic.co/elasticsearch"><img src="./assets/elasticsearch-logo.svg" alt="Elasticsearch Logo" height="32" /></a>
 </p>
 
----
+<br>
 
 ## 🧰 Platforms & Tools
 
