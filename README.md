@@ -35,7 +35,7 @@
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/react-logo.svg" alt="React Logo" height="32" /></a>
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/nextjs-logo.svg" alt="Next.js Logo" height="32" /></a>
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/tailwindcss-logo.svg" alt="Tailwind CSS Logo" height="32" /></a>
-  <a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/shadcnui-logo.svg" alt="shadcn/ui Logo" height="32" /></a>
+  <a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/shadcn-ui-logo.svg" alt="shadcn/ui Logo" height="32" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/javascript-logo.svg" alt="JavaScript Logo" height="32" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/typescript-logo.svg" alt="TypeScript Logo" height="32" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/css3-logo.svg" alt="CSS3 Logo" height="32" /></a>
@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/csharp-logo.svg" alt="C# Logo" height="32" /></a>
-  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/dotnetcore-logo.svg" alt=".NET Core Logo" height="32" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/dotnet-core-logo.svg" alt=".NET Core Logo" height="32" /></a>
   <a href="https://learn.microsoft.com/en-us/ef/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/entityframework-logo.svg" alt="Entity Framework Core Logo" height="32" /></a>
   <a href="https://www.prisma.io/docs"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/prisma-logo.svg" alt="Prisma Logo" height="32" /></a>
   <a href="https://graphql.org/learn/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/graphql-logo.svg" alt="GraphQL Logo" height="32" /></a>
