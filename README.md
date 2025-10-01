@@ -53,6 +53,5 @@
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/docker-logo.svg" alt="Docker Logo" height="32" /></a>
   <a href="https://cursor.sh/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/cursor-logo.svg" alt="Cursor AI Logo" height="32" /></a>
   <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/supabase-logo.svg" alt="Supabase Logo" height="32" /></a>
-  <a href="https://pnpm.io/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/pnpm-logo.svg" alt="pnpm Logo" height="32" /></a>
 </p>
 
