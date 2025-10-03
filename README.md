@@ -30,8 +30,8 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/csharp-logo.svg" alt="C# Logo" height="32" /></a>
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/dotnet-core-logo.svg" alt=".NET Core Logo" height="32" /></a>
   <a href="https://www.prisma.io/docs"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/prisma-logo.svg" alt="Prisma Logo" height="32" /></a>
-  <a href="https://graphql.org/learn/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/graphql-logo.svg" alt="GraphQL Logo" height="32" /></a>
   <a href="https://restfulapi.net/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/restapi-logo.svg" alt="REST API Logo" height="32" /></a>
+  <a href="https://graphql.org/learn/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/graphql-logo.svg" alt="GraphQL Logo" height="32" /></a>
 </p>
 
 <br>
