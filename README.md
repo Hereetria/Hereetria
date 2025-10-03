@@ -1,7 +1,8 @@
 ## 👋 About Me
 
-I am a full-stack web developer passionate about building scalable APIs and modern front-end applications.
-I enjoy working with both back-end and front-end stacks and continuously learning new technologies.
+I’m a full-stack web developer focused on building **reliable, scalable, and user-friendly applications**.  
+I work across the entire stack with a focus on **clean architecture, maintainable code, and solving real-world problems**.  
+I enjoy exploring new technologies to deliver modern, effective, and future-proof solutions.
 
 <br>
 
