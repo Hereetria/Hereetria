@@ -51,10 +51,10 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
 
 <p>
   <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/vercel-logo.svg" alt="Vercel Logo" height="32" /></a>
+  <a href="https://cursor.sh/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/cursor-logo.svg" alt="Cursor AI Logo" height="32" /></a>
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/github-logo.svg" alt="GitHub Logo" height="32" /></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/git-logo.svg" alt="Git Logo" height="32" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/docker-logo.svg" alt="Docker Logo" height="32" /></a>
-  <a href="https://cursor.sh/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/cursor-logo.svg" alt="Cursor AI Logo" height="32" /></a>
 </p>
 
 <br>
