@@ -43,7 +43,6 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/sqlserver-logo.svg" alt="SQL Server Logo" height="32" /></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/mongodb-logo.svg" alt="MongoDB Logo" height="32" /></a>
   <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/redis-logo.svg" alt="Redis Logo" height="32" /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/sql-logo.svg" alt="SQL Logo" height="32" /></a>
 </p>
 
 <br>
