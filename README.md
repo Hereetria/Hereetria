@@ -1,6 +1,6 @@
 ## 🚧 Work in Progress
 
-#👋 About Me
+## 👋 About Me
 
 I am a full-stack web developer passionate about building scalable APIs and modern front-end applications.
 I enjoy working with both back-end and front-end stacks and continuously learning new technologies.
