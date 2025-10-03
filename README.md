@@ -13,11 +13,11 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/nextjs-logo.svg" alt="Next.js Logo" height="32" /></a>
   <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/tailwindcss-logo.svg" alt="Tailwind CSS Logo" height="32" /></a>
   <a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/shadcn-ui-logo.svg" alt="shadcn/ui Logo" height="32" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/javascript-logo.svg" alt="JavaScript Logo" height="32" /></a>
-  <br>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/typescript-logo.svg" alt="TypeScript Logo" height="32" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/css3-logo.svg" alt="CSS3 Logo" height="32" /></a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/html5-logo.svg" alt="HTML5 Logo" height="32" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/css3-logo.svg" alt="CSS3 Logo" height="32" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/javascript-logo.svg" alt="JavaScript Logo" height="32" /></a>
   <a href="https://mui.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/material-ui-logo.svg" alt="Material UI Logo" height="32" /></a>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/bootstrap-logo.svg" alt="Bootstrap Logo" height="32" /></a>
 </p>
