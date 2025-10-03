@@ -72,6 +72,8 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
 
 ## 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=yusufokansirkeci@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f4d924f801b9915b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-okan-sirkeci-698720319)
+<p>
+  <a href="https://mail.google.com/mail/?view=cm&to=yusufokansirkeci@gmail.com"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/gmail-logo.svg" alt="Vercel Logo" height="32" /></a>
+  <a href="https://www.upwork.com/freelancers/~01f4d924f801b9915b"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/upwork.svg" alt="Cursor AI Logo" height="32" /></a>
+  <a href="[https://www.linkedin.com/in/yusuf-okan-sirkeci-698720319"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/linkedin-logo.svg" alt="GitHub Logo" height="32" /></a>
+</p>
