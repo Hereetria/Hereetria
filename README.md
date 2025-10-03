@@ -68,4 +68,10 @@ I enjoy working with both back-end and front-end stacks and continuously learnin
 - **Dev Tools:** Postman, JSON Server, NodeMailer  
 - **.NET Ecosystem:** EF Core (code-first, migrations), Identity, FluentValidation
 
+<br>
 
+## 🌐 Connect With Me
+
+- 📧 Email: [yusufokansirkeci@gmail.com](mailto:yusufokansirkeci@gmail.com)  
+- 🧰 Upwork: [upwork.com/freelancers/~01f4d924f801b9915b](https://www.upwork.com/freelancers/~01f4d924f801b9915b)
+- 💼 LinkedIn: [linkedin.com/in/yusuf-okan-sirkeci-698720319](https://www.linkedin.com/in/yusuf-okan-sirkeci-698720319)  
