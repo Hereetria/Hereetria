@@ -47,7 +47,7 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
 
 <br>
 
-## 🧰 Platforms & Tools
+## 🧰 Platforms & Dev Tools
 
 <p>
   <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/vercel-logo.svg" alt="Vercel Logo" height="32" /></a>
@@ -59,7 +59,7 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
 
 <br>
 
-## 📚 Libraries & Tools I Work With
+## 📚 Libraries & Tools
 
 - **State Management:** Redux, Zustand, React Context  
 - **Forms & Validation:** React Hook Form, Zod  
