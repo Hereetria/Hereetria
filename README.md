@@ -1,9 +1,9 @@
-## 🚧 Work in Progress
-
 ## 👋 About Me
 
 I am a full-stack web developer passionate about building scalable APIs and modern front-end applications.
 I enjoy working with both back-end and front-end stacks and continuously learning new technologies.
+
+<br>
 
 ## 🧭 Frontend
 
@@ -56,6 +56,8 @@ I enjoy working with both back-end and front-end stacks and continuously learnin
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/docker-logo.svg" alt="Docker Logo" height="32" /></a>
   <a href="https://cursor.sh/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/cursor-logo.svg" alt="Cursor AI Logo" height="32" /></a>
 </p>
+
+<br>
 
 ## 📚 Libraries & Tools I Often Use
 
