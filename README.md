@@ -1,5 +1,10 @@
 ## 🚧 Work in Progress
 
+👋 About Me
+
+I am a full-stack web developer passionate about building scalable APIs and modern front-end applications.
+I enjoy working with both back-end and front-end stacks and continuously learning new technologies.
+
 ## 🧭 Frontend
 
 <p>
@@ -22,7 +27,6 @@
 <p>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/csharp-logo.svg" alt="C# Logo" height="32" /></a>
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/dotnet-core-logo.svg" alt=".NET Core Logo" height="32" /></a>
-  <a href="https://learn.microsoft.com/en-us/ef/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/entityframework-logo.svg" alt="Entity Framework Core Logo" height="32" /></a>
   <a href="https://www.prisma.io/docs"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/prisma-logo.svg" alt="Prisma Logo" height="32" /></a>
   <a href="https://graphql.org/learn/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/graphql-logo.svg" alt="GraphQL Logo" height="32" /></a>
   <a href="https://restfulapi.net/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/restapi-logo.svg" alt="REST API Logo" height="32" /></a>
@@ -39,7 +43,6 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/mongodb-logo.svg" alt="MongoDB Logo" height="32" /></a>
   <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/redis-logo.svg" alt="Redis Logo" height="32" /></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/sql-logo.svg" alt="SQL Logo" height="32" /></a>
-  <a href="https://www.elastic.co/elasticsearch"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/elasticsearch-logo.svg" alt="Elasticsearch Logo" height="32" /></a>
 </p>
 
 <br>
@@ -52,6 +55,15 @@
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/git-logo.svg" alt="Git Logo" height="32" /></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/docker-logo.svg" alt="Docker Logo" height="32" /></a>
   <a href="https://cursor.sh/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/cursor-logo.svg" alt="Cursor AI Logo" height="32" /></a>
-  <a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/supabase-logo.svg" alt="Supabase Logo" height="32" /></a>
 </p>
+
+## 📚 Libraries & Tools I Often Use
+
+- **State Management:** Redux, Zustand, React Context  
+- **Forms & Validation:** React Hook Form, Zod  
+- **Data Fetching & GraphQL:** Axios, React Query, Apollo, GraphQL Code Generator  
+- **Authentication & Security:** NextAuth, JWT, bcryptjs  
+- **Dev Tools:** Postman, JSON Server, NodeMailer  
+- **.NET Ecosystem:** EF Core (code-first, migrations), Identity, FluentValidation
+
 
