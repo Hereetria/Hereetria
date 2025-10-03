@@ -65,7 +65,6 @@ I enjoy exploring new technologies to deliver modern, effective, and future-proo
 - **Forms & Validation:** React Hook Form, Zod  
 - **Data Fetching** Axios, React Query, Apollo
 - **Authentication & Security:** NextAuth, JWT, bcryptjs  
-- **Dev Tools:** Postman, JSON Server, NodeMailer  
 - **.NET Ecosystem:** EF Core (code-first, migrations), Identity, FluentValidation
 
 <br>
