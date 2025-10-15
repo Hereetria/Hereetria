@@ -1,8 +1,6 @@
 ## 👋 About Me
 
-I’m a full-stack web developer focused on building **reliable, scalable, and user-friendly applications**.  
-I work across the entire stack with a focus on **clean architecture, maintainable code, and solving real-world problems**.  
-I enjoy exploring new technologies to deliver modern, effective, and future-proof solutions.
+I help clients turn ideas into reliable, scalable, and user-friendly web applications that solve real-world problems through clean, maintainable systems built for scalability, seamless user experience, and long-term value.
 
 <br>
 
