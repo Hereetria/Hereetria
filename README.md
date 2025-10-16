@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I help clients turn ideas into reliable, scalable, and user-friendly web applications that solve real-world problems through clean, maintainable systems built for scalability, seamless user experience, and long-term value.
+I help clients turn ideas into reliable, scalable, and user-friendly web applications that solve real-world problems through clean, maintainable systems built for stability, seamless user experience, and long-term value.
 
 <br>
 
