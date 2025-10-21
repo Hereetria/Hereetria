@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I build scalable, results-driven web applications that streamline business operations, improve user experience, and adapt as your needs grow — backed by clean full-stack architecture.
+I build scalable, results-driven web applications that streamline business operations, enhance user experience, and adapt as your needs grow — backed by clean full-stack architecture.
 
 My projects include booking platforms, SaaS dashboards, and workflow automation tools — built for long-term reliability, effortless scalability, and a seamless user experience.
 
