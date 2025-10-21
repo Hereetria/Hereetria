@@ -1,6 +1,8 @@
 ## 👋 About Me
 
-I help clients turn ideas into reliable, scalable, and user-friendly web applications that solve real-world problems through clean, maintainable systems built for stability, seamless user experience, and long-term value.
+I build scalable, results-driven web applications that streamline business operations, improve user experience, and adapt as your needs grow — backed by clean full-stack architecture.
+
+My projects include booking platforms, SaaS dashboards, and workflow automation tools — built for long-term reliability, effortless scalability, and a seamless user experience.
 
 <br>
 
